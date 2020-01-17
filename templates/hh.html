@@ -1,0 +1,23 @@
+<!Doctype html>
+<html>
+    <head>       
+        <style>
+            body{
+                text-align: center;
+                color: brown;
+            }
+        </style>
+    </head>
+    <body>
+        <ul>
+            {% for note in notes %}
+            <li>{{note}}</li>
+            {% endfor %}
+        </ul>
+        <form action="{{url_for('hh')}}", method="post">
+            your name:
+            <input type="text", name = "name">
+            <button>submit</button>
+        </form>
+    </body>
+</html>

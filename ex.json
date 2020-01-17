@@ -1,0 +1,58 @@
+{
+    "color": {
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": false,
+        "dominantColorBackground": "Grey",
+        "accentColor": "9F782C",
+        "isBwImg": false
+    },
+    "metadata": {
+        "width": 614,
+        "format": "Png",
+        "height": 770
+    },
+    "description": {
+        "captions": [
+            {
+                "text": "Jolin Tsai wearing a black dress",
+                "confidence": 0.9366516368547951
+            }
+        ],
+        "tags": [
+            "person",
+            "clothing",
+            "indoor",
+            "woman",
+            "young",
+            "wearing",
+            "black",
+            "posing",
+            "dress",
+            "standing",
+            "girl",
+            "board",
+            "holding",
+            "yellow",
+            "dressed",
+            "suit",
+            "leaning",
+            "suitcase",
+            "hair",
+            "smiling",
+            "white",
+            "bed",
+            "shirt",
+            "water",
+            "surfing",
+            "laptop",
+            "computer",
+            "room",
+            "hat",
+            "laying"
+        ]
+    },
+    "requestId": "f77665a8-fd3d-4894-9ef2-8a0d3a6110d5"
+}

@@ -1,0 +1,25 @@
+<!Doctype html>
+<html>
+    <head>       
+        <style>
+            body{
+                text-align: center;
+                color: brown;
+            }
+            a{
+                color:cadetblue;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>
+            {% block h1 %}
+            {% endblock %}
+        </h1>        
+        <p>
+            {% block p %}
+            {% endblock %}
+        </p>
+        <a href="{% block a %}{% endblock %}"> click this. </a>
+    </body>
+</html>
